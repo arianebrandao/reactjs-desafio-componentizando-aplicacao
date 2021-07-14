@@ -13,7 +13,7 @@ interface GenreResponseProps {
 
 interface SidebarProps{
   selectedGenreId: number;
-  setSelectedGenreId: (id: number) => void;
+  setSelectedGenreId: (setSelectedGenreId: number) => void; // setSelectedGenreId() é uma função
 }
 
 export function SideBar({ selectedGenreId, setSelectedGenreId }: SidebarProps) {
