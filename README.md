@@ -1,4 +1,10 @@
-# Desafio: Componetizando a Aplicação.
+<p align="center">
+  <img alt="Desafio: componetizando a aplicação" src=".github/app.png" width="100%">
+</p>
+
+Esse é desafio feito durante minha jornada no [Ignite](https://www.rocketseat.com.br/ignite), da Rocketseat.
+
+# Desafio: componetizando a aplicação
 
 Com o template já clonado, as dependências instaladas e a fake API rodando, você deve criar **pelo menos** os componentes SideBar e Content que já estão com os arquivos criados. Os arquivos a serem editados são:
 - **src/App.tsx**
